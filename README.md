@@ -1,2 +1,11 @@
 # eslint-config-tpr618
-eslint prettier typesciprt integration for react project 
+eslint prettier typescript integration for react project 
+
+
+# usage
+
+```json
+{
+  "extends": ["tpr618"]
+}
+```

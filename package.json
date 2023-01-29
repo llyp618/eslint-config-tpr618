@@ -1,0 +1,38 @@
+{
+  "name": "eslint-config-tpr618",
+  "version": "1.0.0",
+  "description": "eslint prettier typescript integration for react project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llyp618/eslint-config-tpr618.git"
+  },
+  "keywords": [
+    "eslint",
+    "prettier",
+    "typescript",
+    "linter",
+    "config",
+    "react"
+  ],
+  "author": "llyp618",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/llyp618/eslint-config-tpr618/issues"
+  },
+  "homepage": "https://github.com/llyp618/eslint-config-tpr618#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.49.0",
+    "@typescript-eslint/parser": "^5.49.0",
+    "eslint": "^8.33.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.32.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^2.8.3"
+  }
+}

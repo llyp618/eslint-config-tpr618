@@ -24,15 +24,17 @@
     "url": "https://github.com/llyp618/eslint-config-tpr618/issues"
   },
   "homepage": "https://github.com/llyp618/eslint-config-tpr618#readme",
+  "peerDependencies": {
+    "eslint": "^8.33.0",
+    "prettier": "^2.8.3"
+  },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.49.0",
     "@typescript-eslint/parser": "^5.49.0",
-    "eslint": "^8.33.0",
     "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-jsx-a11y": "^6.7.1",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.32.1",
-    "eslint-plugin-react-hooks": "^4.6.0",
-    "prettier": "^2.8.3"
+    "eslint-plugin-react-hooks": "^4.6.0"
   }
 }

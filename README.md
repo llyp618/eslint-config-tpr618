@@ -1,2 +1,2 @@
-# eslint-config-vite-react
-eslint prettier for vite react app
+# eslint-config-tpr618
+eslint prettier typesciprt integration for react project 

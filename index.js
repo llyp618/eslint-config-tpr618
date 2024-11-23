@@ -16,6 +16,11 @@ module.exports = {
     "@typescript-eslint",
     "prettier"
   ],
+  "settings": {
+    "react": {
+      "version": "detect",
+    }
+  },
   "env": {
     "browser": true,
     "commonjs": true,
